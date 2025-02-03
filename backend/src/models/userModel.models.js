@@ -25,7 +25,7 @@ const userModel = mongoose.Schema(
             minLength:[5 , 'Password must have 5 charecters'],
             select:false
         },
-        profilePic:{
+        image:{
             type:String
         },
         verified:{

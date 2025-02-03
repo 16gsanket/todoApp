@@ -2,6 +2,7 @@ import express from "express";
 import cookieParser from "cookie-parser";
 import cors from "cors";
 import { healthCheckRouter } from "./routes/healthCheckRoutes/healthCheck.router.js";
+import userRoute from "./routes/userRoutes.routes.js";
 
 const app = express();
 
@@ -22,7 +23,10 @@ app.use(express.static("public"));
 // enables the server to take in cookies
 app.use(cookieParser());
 
+
 app.use("/api/v1/healthCheck", healthCheckRouter)
+
+app.use("/api/v1/user", userRoute)
 
 
 export {app}
