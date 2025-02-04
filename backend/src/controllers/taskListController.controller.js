@@ -5,6 +5,7 @@ import logger from "../utils/logger.js";
 
 const findTasksByDate = asyncHandler(async(req,res,next)=>{
     const {taskListCreatedId} = req.params;
+    const {userId} = req.user;
 
     const taskList =await Taskslist.findById(taskListCreatedId).populate('tasks')
 
