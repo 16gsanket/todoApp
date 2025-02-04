@@ -15,3 +15,7 @@
 {"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a1a175d6cc26b0581fa9d6","timestamp":"2025-02-04T06:27:18.473Z"}
 {"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 67a1a175d6cc26b0581fa9d9","timestamp":"2025-02-04T06:27:31.417Z"}
 {"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 67a1a175d6cc26b0581fa9d9","timestamp":"2025-02-04T06:30:29.008Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-04T06:35:24.341Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-04T06:35:31.958Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-04T06:35:32.051Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-04T06:35:52.010Z"}
