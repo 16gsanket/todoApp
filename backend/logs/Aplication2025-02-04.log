@@ -19,3 +19,120 @@
 {"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-04T06:35:31.958Z"}
 {"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-04T06:35:32.051Z"}
 {"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-04T06:35:52.010Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:22:28.742Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:23:13.859Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:24:24.695Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:24:44.773Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:25:02.702Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:25:30.792Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:26:46.892Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:28:35.495Z"}
+{"level":"info","message":"user email aniruddha10@gmail.com uploaded image to cloudinaey result: [object Object]","timestamp":"2025-02-04T13:28:40.106Z"}
+{"level":"info","message":"user aniruddha10@gmail.com registered successfully","timestamp":"2025-02-04T13:28:40.455Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:31:29.508Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:32:05.830Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:33:34.622Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:34:09.359Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:34:21.855Z"}
+{"level":"info","message":"user email aniruddha101@gmail.com uploaded image to cloudinaey result: [object Object]","timestamp":"2025-02-04T13:34:25.582Z"}
+{"level":"info","message":"user aniruddha101@gmail.com registered successfully","timestamp":"2025-02-04T13:34:26.014Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T13:34:43.046Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T14:29:47.569Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T14:33:44.426Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T14:34:16.818Z"}
+{"level":"info","message":"user email aniruddha102@gmail.com uploaded image to cloudinaey result: [object Object]","timestamp":"2025-02-04T14:34:18.735Z"}
+{"level":"info","message":"user aniruddha102@gmail.com registered successfully","timestamp":"2025-02-04T14:34:19.153Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T14:34:29.999Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T14:42:00.206Z"}
+{"level":"info","message":"user email aniruddha103@gmail.com uploaded image to cloudinaey result: [object Object]","timestamp":"2025-02-04T14:42:01.908Z"}
+{"level":"info","message":"user aniruddha103@gmail.com registered successfully","timestamp":"2025-02-04T14:42:02.329Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T14:46:34.989Z"}
+{"level":"info","message":"user email suchit@gmail.com uploaded image to cloudinaey result: [object Object]","timestamp":"2025-02-04T14:46:38.866Z"}
+{"level":"info","message":"user suchit@gmail.com registered successfully","timestamp":"2025-02-04T14:46:39.274Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T14:50:50.039Z"}
+{"level":"info","message":"user email sucht@gmail.com uploaded image to cloudinaey result: [object Object]","timestamp":"2025-02-04T14:50:53.558Z"}
+{"level":"info","message":"user sucht@gmail.com registered successfully","timestamp":"2025-02-04T14:50:53.966Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T14:53:06.336Z"}
+{"level":"info","message":"user email suchit@gmail.com uploaded image to cloudinaey result: [object Object]","timestamp":"2025-02-04T14:53:09.145Z"}
+{"level":"info","message":"user suchit@gmail.com registered successfully","timestamp":"2025-02-04T14:53:09.545Z"}
+{"level":"info","message":"logging in user with email undefined","timestamp":"2025-02-04T15:50:58.019Z"}
+{"level":"info","message":"user found null","timestamp":"2025-02-04T15:50:58.758Z"}
+{"level":"info","message":"logging in user with email undefined","timestamp":"2025-02-04T15:52:08.546Z"}
+{"level":"info","message":"user found null","timestamp":"2025-02-04T15:52:08.631Z"}
+{"level":"info","message":"logging in user with email undefined","timestamp":"2025-02-04T15:53:09.065Z"}
+{"level":"info","message":"user found null","timestamp":"2025-02-04T15:53:09.128Z"}
+{"level":"info","message":"logging in user with email undefined","timestamp":"2025-02-04T15:53:46.391Z"}
+{"level":"info","message":"user found null","timestamp":"2025-02-04T15:53:46.474Z"}
+{"level":"info","message":"logging in user with email undefined","timestamp":"2025-02-04T15:55:35.909Z"}
+{"level":"info","message":"user found null","timestamp":"2025-02-04T15:55:36.005Z"}
+{"level":"info","message":"logging in user with email undefined","timestamp":"2025-02-04T15:57:45.042Z"}
+{"level":"info","message":"user found null","timestamp":"2025-02-04T15:57:45.096Z"}
+{"level":"info","message":"logging in user with email undefined","timestamp":"2025-02-04T15:58:29.619Z"}
+{"level":"info","message":"user found null","timestamp":"2025-02-04T15:58:29.702Z"}
+{"level":"info","message":"logging in user with email undefined","timestamp":"2025-02-04T16:00:09.808Z"}
+{"level":"info","message":"user found null","timestamp":"2025-02-04T16:00:09.883Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:01:27.023Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:01:27.086Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:07:15.566Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:07:15.783Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:07:33.086Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:07:33.876Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:08:17.058Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:08:17.129Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:20:52.707Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:20:52.800Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:22:20.056Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:22:20.147Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:25:33.575Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:25:33.711Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:26:47.004Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:26:47.100Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:28:08.195Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:28:08.259Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:29:16.480Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:29:16.548Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:31:15.663Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:31:15.739Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:33:36.471Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:33:36.565Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:33:44.147Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:33:44.196Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:39:57.815Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:39:58.132Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:40:38.423Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:40:38.489Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T16:41:26.720Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T16:41:26.793Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T18:06:02.922Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T18:06:03.391Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-04T18:11:32.704Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T18:12:15.717Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T18:12:15.769Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-04T18:12:28.365Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-04T18:14:07.938Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-04T18:14:07.993Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-04T18:14:10.748Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-04T18:14:47.146Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-04T18:14:47.215Z"}
+{"level":"info","message":"incorrect password for user with email sanket@gmail.com","timestamp":"2025-02-04T18:14:47.449Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-04T18:15:45.596Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-04T18:15:45.650Z"}
+{"level":"info","message":"incorrect password for user with email sanket@gmail.com","timestamp":"2025-02-04T18:15:45.931Z"}
+{"level":"info","message":"logging in user with email anirudha@gmail.com","timestamp":"2025-02-04T18:15:54.592Z"}
+{"level":"info","message":"user found null","timestamp":"2025-02-04T18:15:54.657Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T18:16:49.093Z"}
+{"level":"info","message":"user email aniruddha@gmail.com already exists","timestamp":"2025-02-04T18:16:49.142Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T18:17:19.598Z"}
+{"level":"info","message":"user email aniruddha@gmail.com already exists","timestamp":"2025-02-04T18:17:19.655Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T18:17:25.807Z"}
+{"level":"info","message":"user email aniruddha001@gmail.com uploaded image to cloudinaey result: [object Object]","timestamp":"2025-02-04T18:17:29.687Z"}
+{"level":"info","message":"user aniruddha001@gmail.com registered successfully","timestamp":"2025-02-04T18:17:29.922Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T18:22:19.904Z"}
+{"level":"info","message":"user email aniruddha001@gmail.com uploaded image to cloudinaey result: [object Object]","timestamp":"2025-02-04T18:22:22.656Z"}
+{"level":"info","message":"user aniruddha001@gmail.com registered successfully","timestamp":"2025-02-04T18:22:22.890Z"}
+{"level":"info","message":"new user trying to register","timestamp":"2025-02-04T18:24:07.222Z"}
+{"level":"info","message":"user email aniruddha01@gmail.com uploaded image to cloudinaey result: [object Object]","timestamp":"2025-02-04T18:24:11.368Z"}
+{"level":"info","message":"user aniruddha01@gmail.com registered successfully","timestamp":"2025-02-04T18:24:11.599Z"}
+{"level":"info","message":"logging in user with email aniruddha01@gmail.com","timestamp":"2025-02-04T18:24:22.953Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a25b4b9a3d551bcfea5d35'),\n  name: 'aniruddha',\n  email: 'aniruddha01@gmail.com',\n  dob: 1956-06-06T00:00:00.000Z,\n  password: '$2b$12$aC0CsSP0YuLjVd2Y2Nn0qOUxfsu3d333af1AivmkSp6mC8OU0aZ9y',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738693450/toDoList/users/1738693447219.jpg',\n  verified: false,\n  createdAt: 2025-02-04T18:24:11.601Z,\n  updatedAt: 2025-02-04T18:24:11.601Z,\n  __v: 0\n}","timestamp":"2025-02-04T18:24:23.012Z"}
+{"level":"info","message":"logging out user with email aniruddha01@gmail.com","timestamp":"2025-02-04T18:24:26.330Z"}

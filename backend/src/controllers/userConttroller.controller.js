@@ -13,10 +13,13 @@ const registerUser = asyncHandler(async (req, res, next) => {
 
   const { name, email, password, dob } = req.body;
 
+  console.log(name, email, password, dob);
+  
+
   if (!req.file) {
     console.log("no file");
   }
-  console.log(req);
+
 
   const foundUser = await User.findOne({ email });
   if (foundUser) {
@@ -66,11 +69,13 @@ const registerUser = asyncHandler(async (req, res, next) => {
 
   return res
     .status(201)
-    .json(new apiResponse(201, "user registered successfully", responseUser));
+    .json(new apiResponse(201,responseUser ,"user registered successfully"));
 });
 
 const loginUser = asyncHandler(async (req, res) => {
   const { email, password } = req.body;
+  console.log(email, password);
+  
 
   logger.info(`logging in user with email ${email}`);
   const foundUser = await User.findOne({ email }).select("+password");
@@ -90,6 +95,10 @@ const loginUser = asyncHandler(async (req, res) => {
     throw new apiError(400, "incorrect password");
   }
 
+  const userResponse =await User.findOne({email})
+
+
+
   const token = jwt.sign(
     { userId: foundUser._id, email: foundUser.email },
     process.env.JWT_TOKEN_SECRET,
@@ -101,12 +110,13 @@ const loginUser = asyncHandler(async (req, res) => {
   res.cookie("Authorization", `Bearer ${token}`, {
     expires: new Date(Date.now() + 8 * 3600000),
     httpOnly: process.env.NODE_ENV === "production",
-    secure: process.env.NODE_ENV === "production",
+    // secure: process.env.NODE_ENV === "production",
+    secure: false
   });
 
   return res
     .status(200)
-    .json(new apiResponse(200,{}, "user logged in successfully"));
+    .json(new apiResponse(200,userResponse, "user logged in successfully"));
 });
 
 const updateUser = asyncHandler(async (req, res) => {

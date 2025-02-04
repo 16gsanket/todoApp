@@ -9,7 +9,9 @@ const app = express();
 
 //  to allow the Cross Origin resource Sharing from different IP adressa
 app.use(cors({
-    origin:process.env.CORS_ORIGIN
+    origin:process.env.CORS_ORIGIN,
+    credentials:true,
+    allowedHeaders: ["Content-Type", "Authorization"],
 }))
 
 // enables the server to take in values in json format and keep the file limit ot 16kb
