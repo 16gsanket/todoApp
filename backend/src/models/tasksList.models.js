@@ -1,11 +1,15 @@
 import mongoose from 'mongoose'
 
-const tasksListSchema = mongoose.Schem(
+const tasksListSchema = mongoose.Schema(
     {
         owner:{
             type:mongoose.Schema.ObjectId,
             ref:"User",
             required:true
+        },
+        taskcreatedDateId:{
+            type:String,
+            default:0
         },
         tasks:[{
             type:mongoose.Schema.ObjectId,
@@ -14,4 +18,4 @@ const tasksListSchema = mongoose.Schem(
     },{timestamps:true}
 )
 
-export default mongoose.model("TasksList",tasksListSchema)
+export default mongoose.model("Taskslist",tasksListSchema)

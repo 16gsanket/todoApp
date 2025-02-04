@@ -106,7 +106,7 @@ const loginUser = asyncHandler(async (req, res) => {
 
   return res
     .status(200)
-    .json(new apiResponse(200, "user logged in successfully"));
+    .json(new apiResponse(200,{}, "user logged in successfully"));
 });
 
 const updateUser = asyncHandler(async (req, res) => {
@@ -136,21 +136,22 @@ const updateUser = asyncHandler(async (req, res) => {
   if (!updatedUser) {
     throw new apiError(400, "user not found");
   }
-  return res.status(200).json(new apiResponse(200, "user updated successfully"));
+  return res.status(200).json(new apiResponse(200,{} ,"user updated successfully"));
 
-    
-
-  
 });
 
 const getUser = asyncHandler(async(req,res)=>{
     const updatedUser = await User.findOne({_id:req.user.userId})
-
+    logger.info(`user ${updatedUser} requested to get his profile`)
     if(!updatedUser){
         throw new apiError(400 , "user not found")
     }
 
-    res.status(200).json(new apiResponse(200 , "user found successfully" , updatedUser))
+    res.status(200).json(new apiResponse(200 , updatedUser,"user found successfully" ))
 })
+const logOutUser = asyncHandler(async(req,res)=>{
+  logger.info(`logging out user with email ${req.user.email}`);
 
-export { registerUser, loginUser, updateUser, getUser };
+  res.clearCookie("Authorization").status(200).json(new apiResponse(200,{},"user logged out successfully"))
+})
+export { registerUser, loginUser, updateUser, getUser,  logOutUser };

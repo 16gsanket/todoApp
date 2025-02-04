@@ -9,7 +9,7 @@ dotenv.config({
 
 
 connectDB().then(()=>{
-    logger.info('datbse suceessfully connected');
+    // logger.info('datbse suceessfully connected');
     app.listen(process.env.PORT, () => {
         console.log(`server is running on port ${process.env.PORT}`);
     });

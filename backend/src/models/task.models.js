@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+import mongoose, { Schema } from "mongoose";
 
 const taskSchema = mongoose.Schema(
     {
@@ -20,6 +20,10 @@ const taskSchema = mongoose.Schema(
             trim:true,
             enum: ["low", "medium", "high"],
             default: "low"
+        },
+        owner:{
+            type:Schema.Types.ObjectId,
+            ref:"User"
         }
         
     },{timestamps:true}
