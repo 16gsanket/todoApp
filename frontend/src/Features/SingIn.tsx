@@ -2,8 +2,6 @@ import { useForm } from "react-hook-form";
 import { TextField, Button, Box, Typography } from "@mui/material";
 import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
 import { useNavigate } from "react-router-dom";
-import { setUser } from "./auth/authSlice";
-import { useDispatch } from "react-redux";
 
 function SingIn(): JSX.Element {
   const {
@@ -12,7 +10,6 @@ function SingIn(): JSX.Element {
     formState: { errors },
   } = useForm();
   const navigate = useNavigate();
-  const dispatch = useDispatch();
 
   // Handle form submission
   const onSubmit = async(data: any) => {
@@ -34,7 +31,7 @@ function SingIn(): JSX.Element {
   console.log(dataFromResponse);
 
   if(dataFromResponse.success){
-    dispatch(setUser({email:dataFromResponse.data.email}))
+    // dispatch(setUser({email:dataFromResponse.data.email}))
     navigate('/login')
   }else{
     alert(dataFromResponse.message)

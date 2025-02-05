@@ -1,13 +1,13 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
 interface stateInterface{
-    user : {email:string} | null
+    user : {email:string, name:string} | null
     isAuthenticated:Boolean
     isLoading:Boolean
 }
 
 const initialState : stateInterface= {
-    user:null,
+    user:{email:"",name:""},
     isAuthenticated:false,
     isLoading:false
 }
@@ -18,8 +18,11 @@ const authSlice = createSlice(
         initialState,
         reducers:{
             // a refucer function to add the user to the store
-            setUser(state , action : PayloadAction<{email:string}>){
-                state.user = action.payload
+            setUser(state , action : PayloadAction<{email:string, name:string}>){
+                state.user ={
+                    email:action.payload.email,
+                    name:action.payload.name
+                }
                 state.isAuthenticated = true
             },
             // reducer function to remove the user from the store

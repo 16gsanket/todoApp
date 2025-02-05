@@ -12,6 +12,7 @@ import { Provider } from "react-redux";
 import store from "./Features/app/store";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
+import ProtectedElement from "./Components/ProtectedElement";
 
 interface AppProps {}
 
@@ -41,9 +42,16 @@ function App(props: AppProps): JSX.Element {
           path: "/signUp",
           element: <SingIn />,
         },
+        
         {
-          path: "/Activity",
-          element: <Activity />,
+          // 
+          element:<ProtectedElement />,
+          children:[
+            {
+              path:'/Activity',
+              element:<Activity />
+            }
+          ]
         },
       ],
     },

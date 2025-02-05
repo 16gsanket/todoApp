@@ -43,7 +43,7 @@ function Login(): JSX.Element {
     console.log(dataFromResponse);
 
     if (dataFromResponse.success) {
-      dispatch(setUser({email:dataFromResponse.data.email}))
+      dispatch(setUser({email:dataFromResponse.data.email , name:dataFromResponse.data.name}))
       navigate("/Activity");
     }else{
       alert(dataFromResponse.message)

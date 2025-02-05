@@ -8,7 +8,9 @@ function AppLayout(): JSX.Element {
   const dispatch = useDispatch();
   const location = useLocation();
 
-  const userData: any = useSelector((state): any => state.auth.user);
+  const userData: any = useSelector((state): any => state.auth);
+  console.log(userData);
+  
 
   const handleLogout = async () => {
     const response: any = await fetch(
@@ -46,11 +48,12 @@ function AppLayout(): JSX.Element {
              </IconButton> */}
 
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            <NavLink to="/" style={{ textDecoration: "none" , color:"white"}}>Task Manager</NavLink>
+            <NavLink to="/" style={{ textDecoration: "none" , color:"white"}}>Hi 👋 {userData?.user?.name === "" ? 'Task Manager' : userData?.user?.name
+            }</NavLink>
           </Typography>
-          {!userData && (
+          {!userData.isAuthenticated && (
             <NavLink to="/login">
-              {location.pathname !== "/login" && (
+              
                 <Button
                   variant="outlined"
                   color="inherit"
@@ -58,10 +61,10 @@ function AppLayout(): JSX.Element {
                 >
                   Login
                 </Button>
-              )}
+              
             </NavLink>
           )}
-          {userData && (
+          {userData.isAuthenticated && (
             <Button color="inherit" onClick={handleLogout}>
               LogOut
             </Button>
