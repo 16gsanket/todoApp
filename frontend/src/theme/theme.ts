@@ -21,6 +21,7 @@ const theme = createTheme({
           testColor:"lightpink",
           lavender:"#DBD4FD",
           lightBlue:"#DEFFF9",
+          darklavender:"#7e6dd0",
           lightYellow:"#E6F19E" // White for cards
         } as CustomBackground,
         text: {

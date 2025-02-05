@@ -1,0 +1,617 @@
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T04:22:56.955Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T04:22:57.028Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T04:23:26.129Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T04:23:26.189Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T06:10:26.920Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T06:10:27.007Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T06:12:44.072Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T06:12:56.556Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T06:12:56.612Z"}
+{"level":"info","message":"new task created by user 67a229d52cb0028938bfcee8 with id 67a30174b1850f07667ca5ab","timestamp":"2025-02-05T06:13:08.366Z"}
+{"level":"info","message":"new task list created by user 67a229d52cb0028938bfcee8 with id 67a30174b1850f07667ca5ae","timestamp":"2025-02-05T06:13:08.475Z"}
+{"level":"info","message":"new task created by user 67a229d52cb0028938bfcee8 with id 67a30214b1850f07667ca5b0","timestamp":"2025-02-05T06:15:48.156Z"}
+{"level":"info","message":"new task added to the task list by user 67a229d52cb0028938bfcee8 with id 67a30174b1850f07667ca5ae","timestamp":"2025-02-05T06:15:48.252Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T07:36:43.744Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T07:36:43.818Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T07:42:08.590Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T07:52:11.741Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T07:53:53.187Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T07:53:53.255Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T07:54:51.625Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T07:55:00.637Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T07:55:00.691Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 202525","timestamp":"2025-02-05T07:55:51.867Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T07:57:52.690Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T07:57:52.762Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 202525","timestamp":"2025-02-05T07:57:53.404Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T08:01:34.734Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:01:34.815Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:01:35.683Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:01:35.690Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T08:01:58.553Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:02:22.752Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:02:22.846Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:02:23.511Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:03:06.135Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:03:16.240Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:03:16.322Z"}
+{"level":"info","message":"new task created by user 67a09e4092160d28dbf185f9 with id 67a31b5d56cd75a38296a50a","timestamp":"2025-02-05T08:03:41.160Z"}
+{"level":"info","message":"new task list created by user 67a09e4092160d28dbf185f9 with id 67a31b5d56cd75a38296a50e","timestamp":"2025-02-05T08:03:41.252Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:03:43.282Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:03:43.286Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:03:45.601Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:03:58.144Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:03:58.194Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:03:58.910Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:03:58.915Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:04:36.382Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:04:36.386Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:04:37.784Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:04:52.670Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:04:52.812Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:04:53.422Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:04:53.426Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:05:49.851Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:06:14.638Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:06:24.511Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:06:35.421Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:06:35.495Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:06:36.517Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:07:39.204Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:07:54.716Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:08:09.177Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:08:23.995Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:08:34.658Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:08:34.708Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:08:35.396Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:11:40.822Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:11:42.823Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:12:43.887Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:12:43.897Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:12:44.325Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:12:50.147Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:13:08.469Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:13:08.559Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:13:09.325Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:14:38.812Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:14:38.816Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:14:40.183Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:14:42.059Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:14:44.795Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:14:56.518Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:14:56.645Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:14:57.362Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:18:02.756Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:18:19.784Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:18:21.767Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:18:25.763Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:18:50.201Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:18:56.549Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:22:18.852Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:22:18.856Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:22:34.838Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:22:34.844Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:22:59.884Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:22:59.975Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:01.840Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:01.979Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:13.789Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:13.808Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:16.773Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:16.911Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:19.845Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:19.847Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:21.791Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:21.927Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:23.789Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:23.880Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:44.791Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:45.012Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:47.745Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:23:47.781Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:24:11.793Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:24:11.819Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:24:16.787Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:24:16.810Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:24:24.772Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:24:24.871Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:24:28.792Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:24:28.914Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:24:30.792Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:24:30.897Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:24:33.787Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:24:33.882Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:25:35.818Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:25:35.946Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:25:54.641Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:25:58.520Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:27:06.960Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:28:39.490Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:29:07.196Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:29:19.688Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:29:58.425Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:31:01.998Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:35:10.237Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:35:10.286Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:35:10.843Z"}
+{"level":"info","message":"new task created by user 67a09e4092160d28dbf185f9 with id 67a322d056cd75a38296a5be","timestamp":"2025-02-05T08:35:28.162Z"}
+{"level":"info","message":"new task added to the task list by user 67a09e4092160d28dbf185f9 with id 67a31b5d56cd75a38296a50e","timestamp":"2025-02-05T08:35:28.261Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:35:39.805Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:35:58.334Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:36:02.544Z"}
+{"level":"info","message":"logging in user with email aniruddha001@gmail.com","timestamp":"2025-02-05T08:36:26.199Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a25ade9a3d551bcfea5d32'),\n  name: 'aniruddha',\n  email: 'aniruddha001@gmail.com',\n  dob: 1956-06-04T00:00:00.000Z,\n  password: '$2b$12$bY1gDgiIi6SYz0lkBZfHjuMQ2lQQm/OWXLU88usIWtGvrg5Go/KvG',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738693341/toDoList/users/1738693339901.jpg',\n  verified: false,\n  createdAt: 2025-02-04T18:22:22.891Z,\n  updatedAt: 2025-02-04T18:22:22.891Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:36:26.263Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:37:18.955Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:37:19.004Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:37:19.406Z"}
+{"level":"info","message":"new task created by user 67a09e4092160d28dbf185f9 with id 67a3237456cd75a38296a5d2","timestamp":"2025-02-05T08:38:12.106Z"}
+{"level":"info","message":"new task added to the task list by user 67a09e4092160d28dbf185f9 with id 67a31b5d56cd75a38296a50e","timestamp":"2025-02-05T08:38:12.187Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:38:23.348Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:38:43.648Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:38:46.006Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:38:48.698Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:39:57.633Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:40:04.340Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:40:04.414Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:40:04.816Z"}
+{"level":"info","message":"new task created by user 67a09e4092160d28dbf185f9 with id 67a323f656cd75a38296a5e2","timestamp":"2025-02-05T08:40:22.335Z"}
+{"level":"info","message":"new task added to the task list by user 67a09e4092160d28dbf185f9 with id 67a31b5d56cd75a38296a50e","timestamp":"2025-02-05T08:40:22.453Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:40:41.887Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:42:13.953Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:42:14.383Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T08:42:16.577Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T08:42:17.895Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T08:42:25.509Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:42:25.543Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:42:25.933Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:42:53.320Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:42:53.774Z"}
+{"level":"info","message":"new task created by user 67a229d52cb0028938bfcee8 with id 67a324a256cd75a38296a5f6","timestamp":"2025-02-05T08:43:14.418Z"}
+{"level":"info","message":"new task added to the task list by user 67a229d52cb0028938bfcee8 with id 67a30174b1850f07667ca5ae","timestamp":"2025-02-05T08:43:14.511Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:43:20.935Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:44:07.621Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T08:44:09.112Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T08:44:16.670Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T08:44:16.797Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:44:17.197Z"}
+{"level":"info","message":"new task created by user 67a229d52cb0028938bfcee8 with id 67a324ea56cd75a38296a602","timestamp":"2025-02-05T08:44:26.238Z"}
+{"level":"info","message":"new task added to the task list by user 67a229d52cb0028938bfcee8 with id 67a30174b1850f07667ca5ae","timestamp":"2025-02-05T08:44:26.334Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:44:49.937Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:45:10.556Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:45:10.815Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:45:23.472Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:45:23.812Z"}
+{"level":"info","message":"new task created by user 67a229d52cb0028938bfcee8 with id 67a3252b56cd75a38296a610","timestamp":"2025-02-05T08:45:31.480Z"}
+{"level":"info","message":"new task added to the task list by user 67a229d52cb0028938bfcee8 with id 67a30174b1850f07667ca5ae","timestamp":"2025-02-05T08:45:31.617Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:45:32.742Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:47:08.105Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:49:35.763Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:49:35.844Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:49:40.795Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:49:40.892Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:49:53.924Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:49:54.013Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:50:18.801Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:50:18.836Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:50:20.571Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:51:53.976Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:51:54.855Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:53:08.588Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:53:08.999Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:54:24.010Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:54:24.847Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:54:34.442Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:54:34.798Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:54:39.512Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:57:36.693Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:57:40.809Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:57:41.016Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:58:37.299Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:58:37.805Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:59:59.166Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T08:59:59.815Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:01:42.666Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:06:33.230Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:06:48.111Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:06:48.166Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:06:48.582Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:12:12.813Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:14:25.805Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:14:53.844Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:19:04.046Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:19:08.741Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:19:13.464Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T09:19:22.919Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:19:23.011Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:19:23.501Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:19:29.392Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:19:44.453Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T09:19:56.523Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T09:20:03.851Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:20:03.900Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:20:04.334Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:20:15.069Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:22:01.509Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T09:22:05.201Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T09:22:15.037Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:22:15.101Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:22:15.512Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:23:08.276Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:23:13.021Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:23:22.667Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:23:36.817Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T09:23:42.300Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:23:50.092Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:23:50.156Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:23:50.578Z"}
+{"level":"info","message":"new task created by user 67a09e4092160d28dbf185f9 with id 67a32e3456cd75a38296a682","timestamp":"2025-02-05T09:24:04.194Z"}
+{"level":"info","message":"new task added to the task list by user 67a09e4092160d28dbf185f9 with id 67a31b5d56cd75a38296a50e","timestamp":"2025-02-05T09:24:04.301Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:24:05.912Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:24:13.111Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:24:17.790Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:24:27.094Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:24:33.426Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T09:24:39.326Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:24:39.388Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:24:39.794Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:25:01.216Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:25:03.937Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T09:25:10.205Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:25:10.270Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:25:10.694Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:26:00.675Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:26:00.724Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:26:01.117Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:26:05.955Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:26:12.783Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:26:19.908Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:26:19.958Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:26:20.356Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:26:45.376Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:26:48.659Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T09:27:07.213Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:27:07.284Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:27:07.725Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:27:13.718Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T09:27:19.947Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T09:27:28.242Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:27:28.300Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:27:28.741Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:27:39.388Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:28:44.469Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T09:28:46.100Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T09:28:55.356Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:28:55.424Z"}
+{"level":"info","message":"logging in user with email 16gsanket@gmail.com","timestamp":"2025-02-05T09:31:09.081Z"}
+{"level":"info","message":"user found null","timestamp":"2025-02-05T09:31:09.132Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T09:31:28.716Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:31:28.781Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:32:00.914Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:32:01.089Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T09:32:16.128Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:32:16.199Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:32:29.749Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:32:32.461Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T09:32:51.543Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:32:51.595Z"}
+{"level":"info","message":"incorrect password for user with email sanket@gmail.com","timestamp":"2025-02-05T09:32:51.825Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T09:33:03.145Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:33:03.190Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T09:34:46.852Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T09:34:56.678Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:34:56.776Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T09:35:01.497Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:35:10.414Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:35:10.484Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:35:11.008Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:35:24.724Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:35:25.805Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T09:35:36.075Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:35:36.138Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T09:35:38.554Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T09:35:46.641Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:35:46.759Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T09:35:47.149Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T09:35:51.398Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T09:57:04.420Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:57:04.477Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T09:57:58.626Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:57:58.685Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e2","timestamp":"2025-02-05T09:58:34.379Z"}
+{"level":"info","message":"new task list created by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T09:58:34.480Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T09:58:36.624Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a3365f8dde6659149d47e9","timestamp":"2025-02-05T09:58:55.317Z"}
+{"level":"info","message":"new task added to the task list by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T09:58:55.425Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T09:58:57.132Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T09:59:03.875Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:59:14.693Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:59:14.745Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:59:15.401Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:59:19.457Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:59:31.163Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:59:44.653Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T09:59:44.705Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T09:59:45.434Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T09:59:59.269Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T10:00:06.120Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:00:06.165Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:00:06.853Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T10:00:18.554Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T10:00:32.952Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:00:33.008Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:00:33.625Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T10:01:04.235Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:01:04.286Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:01:04.899Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:01:08.809Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:01:09.605Z"}
+{"level":"info","message":"new task created by user 67a229d52cb0028938bfcee8 with id 67a336fa8dde6659149d480b","timestamp":"2025-02-05T10:01:30.115Z"}
+{"level":"info","message":"new task added to the task list by user 67a229d52cb0028938bfcee8 with id 67a30174b1850f07667ca5ae","timestamp":"2025-02-05T10:01:30.228Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:01:31.755Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:01:33.804Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:01:43.705Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T10:01:53.118Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T10:02:02.737Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:02:02.797Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:02:03.415Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:02:38.845Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a337498dde6659149d481c","timestamp":"2025-02-05T10:02:49.837Z"}
+{"level":"info","message":"new task added to the task list by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T10:02:49.927Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:02:51.338Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:03:04.537Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:03:07.810Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:03:34.719Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:03:43.319Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:03:44.706Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:04:06.597Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a337a08dde6659149d482f","timestamp":"2025-02-05T10:04:16.652Z"}
+{"level":"info","message":"new task added to the task list by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T10:04:16.733Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:04:18.251Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:04:23.869Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a338198dde6659149d4837","timestamp":"2025-02-05T10:06:17.122Z"}
+{"level":"info","message":"new task added to the task list by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T10:06:17.236Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:06:18.281Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a3381f8dde6659149d483d","timestamp":"2025-02-05T10:06:23.707Z"}
+{"level":"info","message":"new task added to the task list by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T10:06:23.805Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:06:24.902Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:06:36.094Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T10:07:08.291Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T10:07:16.724Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:07:16.780Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:07:17.503Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:07:21.874Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:07:46.462Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:08:14.565Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a338e2eb6efbeb5c379124","timestamp":"2025-02-05T10:09:38.490Z"}
+{"level":"info","message":"new task added to the task list by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T10:09:38.607Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:09:39.539Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a338e7eb6efbeb5c37912a","timestamp":"2025-02-05T10:09:43.810Z"}
+{"level":"info","message":"new task added to the task list by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T10:09:43.904Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:09:45.123Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T10:09:50.065Z"}
+{"level":"info","message":"new task added to the task list by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T10:09:50.157Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:09:50.852Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a338f5eb6efbeb5c379136","timestamp":"2025-02-05T10:09:57.579Z"}
+{"level":"info","message":"new task added to the task list by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T10:09:57.672Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:09:58.739Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:10:43.498Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:12:17.071Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:12:17.816Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T10:12:33.329Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:12:33.374Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:12:34.052Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:12:40.985Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:12:45.754Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:12:57.091Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:13:02.423Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:13:43.934Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:13:52.633Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:15:58.700Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:16:19.319Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:16:42.198Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:17:23.835Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:17:48.374Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T10:17:49.931Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T10:18:03.133Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:18:03.280Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:18:03.961Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:18:10.669Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:19:02.806Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T10:19:08.646Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T10:19:15.515Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:19:15.564Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:19:16.191Z"}
+{"level":"info","message":"new task created by user 67a229d52cb0028938bfcee8 with id 67a33b30de800b7badcc0749","timestamp":"2025-02-05T10:19:29.032Z"}
+{"level":"info","message":"new task added to the task list by user 67a229d52cb0028938bfcee8 with id 67a30174b1850f07667ca5ae","timestamp":"2025-02-05T10:19:29.141Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:19:30.303Z"}
+{"level":"info","message":"new task created by user 67a229d52cb0028938bfcee8 with id 67a33b3ede800b7badcc074f","timestamp":"2025-02-05T10:19:42.598Z"}
+{"level":"info","message":"new task added to the task list by user 67a229d52cb0028938bfcee8 with id 67a30174b1850f07667ca5ae","timestamp":"2025-02-05T10:19:42.696Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:19:43.901Z"}
+{"level":"info","message":"new task created by user 67a229d52cb0028938bfcee8 with id 67a33b4cde800b7badcc0755","timestamp":"2025-02-05T10:19:56.988Z"}
+{"level":"info","message":"new task added to the task list by user 67a229d52cb0028938bfcee8 with id 67a30174b1850f07667ca5ae","timestamp":"2025-02-05T10:19:57.088Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:19:58.806Z"}
+{"level":"info","message":"new task created by user 67a229d52cb0028938bfcee8 with id 67a33b5ade800b7badcc075b","timestamp":"2025-02-05T10:20:10.607Z"}
+{"level":"info","message":"new task added to the task list by user 67a229d52cb0028938bfcee8 with id 67a30174b1850f07667ca5ae","timestamp":"2025-02-05T10:20:10.711Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:20:11.360Z"}
+{"level":"info","message":"new task created by user 67a229d52cb0028938bfcee8 with id 67a33b6ade800b7badcc0761","timestamp":"2025-02-05T10:20:26.932Z"}
+{"level":"info","message":"new task added to the task list by user 67a229d52cb0028938bfcee8 with id 67a30174b1850f07667ca5ae","timestamp":"2025-02-05T10:20:27.026Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:20:28.368Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T10:20:34.735Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T10:20:41.158Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:20:41.290Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:20:41.932Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T10:20:47.558Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T10:20:54.430Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:20:54.479Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T10:20:55.155Z"}
+{"level":"info","message":"new task created by user 67a09e4092160d28dbf185f9 with id 67a33b96de800b7badcc076f","timestamp":"2025-02-05T10:21:11.033Z"}
+{"level":"info","message":"new task added to the task list by user 67a09e4092160d28dbf185f9 with id 67a31b5d56cd75a38296a50e","timestamp":"2025-02-05T10:21:11.158Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T10:21:12.177Z"}
+{"level":"info","message":"new task created by user 67a09e4092160d28dbf185f9 with id 67a33ba2de800b7badcc0775","timestamp":"2025-02-05T10:21:23.049Z"}
+{"level":"info","message":"new task added to the task list by user 67a09e4092160d28dbf185f9 with id 67a31b5d56cd75a38296a50e","timestamp":"2025-02-05T10:21:23.167Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T10:21:23.827Z"}
+{"level":"info","message":"new task created by user 67a09e4092160d28dbf185f9 with id 67a33baade800b7badcc077b","timestamp":"2025-02-05T10:21:31.071Z"}
+{"level":"info","message":"new task added to the task list by user 67a09e4092160d28dbf185f9 with id 67a31b5d56cd75a38296a50e","timestamp":"2025-02-05T10:21:31.218Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T10:21:31.945Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T10:21:37.132Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T10:21:45.217Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:21:45.320Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:21:45.960Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a33bc2de800b7badcc0785","timestamp":"2025-02-05T10:21:55.112Z"}
+{"level":"info","message":"new task added to the task list by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T10:21:55.233Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:21:56.089Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T10:22:06.898Z"}
+{"level":"info","message":"new task added to the task list by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T10:22:07.016Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:22:07.678Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:22:10.661Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:22:16.736Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T10:22:19.320Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T10:22:27.501Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:22:27.556Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:22:28.222Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:22:35.629Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T10:22:38.192Z"}
+{"level":"info","message":"logging in user with email aniruddha@gmail.com","timestamp":"2025-02-05T10:22:44.827Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a09e4092160d28dbf185f9'),\n  name: 'aniruddha',\n  email: 'aniruddha@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$9Ax/u2solzzZDq./0hCFx.E5x7tUhuVrLQJ10nW6PsDBbq.1SXwUa',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738579521/toDoList/users/1738579518197.jpg',\n  verified: false,\n  createdAt: 2025-02-03T10:45:20.741Z,\n  updatedAt: 2025-02-03T10:45:20.741Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:22:44.881Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T10:22:45.547Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T10:22:51.913Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T10:22:55.888Z"}
+{"level":"info","message":"new task created by user 67a09e4092160d28dbf185f9 with id 67a33c08de800b7badcc07a8","timestamp":"2025-02-05T10:23:04.393Z"}
+{"level":"info","message":"new task added to the task list by user 67a09e4092160d28dbf185f9 with id 67a31b5d56cd75a38296a50e","timestamp":"2025-02-05T10:23:04.490Z"}
+{"level":"info","message":"task list requested by user 67a09e4092160d28dbf185f9 with id 522025","timestamp":"2025-02-05T10:23:05.412Z"}
+{"level":"info","message":"logging out user with email aniruddha@gmail.com","timestamp":"2025-02-05T10:23:08.368Z"}
+{"level":"info","message":"logging in user with email suchit@gmail.com","timestamp":"2025-02-05T10:23:23.204Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a229d52cb0028938bfcee8'),\n  name: 'suchit',\n  email: 'suchit@gmail.com',\n  dob: 2002-03-16T00:00:00.000Z,\n  password: '$2b$12$l5TKS1DnZkz8n.Kk0.pIx.JWlKNoT14NWlK/RR8qrPSBKaVXKVtoK',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738680788/toDoList/users/1738680786323.jpg',\n  verified: false,\n  createdAt: 2025-02-04T14:53:09.566Z,\n  updatedAt: 2025-02-04T14:53:09.566Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:23:23.248Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:23:23.876Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:33:27.067Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:33:30.783Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:35:10.810Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:35:11.787Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:35:53.812Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:35:53.854Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T10:35:55.683Z"}
+{"level":"info","message":"logging out user with email suchit@gmail.com","timestamp":"2025-02-05T10:37:32.842Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T10:37:41.557Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:37:41.669Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:37:42.397Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:38:12.911Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:38:13.860Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:39:26.806Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:39:26.844Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:40:06.981Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:40:07.072Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:56:02.826Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T10:56:04.880Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T10:56:17.354Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:56:17.409Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:56:18.068Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:57:26.655Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:57:27.139Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T10:57:32.391Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T10:57:48.850Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T10:57:48.998Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T10:57:49.656Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:00:01.830Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T11:00:03.253Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T11:00:10.627Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T11:00:10.734Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:00:11.436Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T11:00:16.181Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T11:00:16.202Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:00:16.371Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:00:16.376Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T11:01:11.097Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T11:01:11.109Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:01:11.379Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:01:11.385Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:01:39.307Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T11:01:55.619Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T11:01:55.638Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:01:55.862Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:01:56.066Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T11:03:05.527Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T11:03:05.534Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:03:05.811Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:03:05.814Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T11:03:58.465Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T11:03:58.477Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:03:58.701Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:03:58.705Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T11:05:46.495Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T11:05:46.525Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:05:46.697Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:05:46.701Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T11:06:18.280Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:06:18.811Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:06:20.396Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:06:25.863Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T11:06:26.005Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:06:27.146Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T11:06:42.122Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T11:06:42.181Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:06:42.905Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T11:06:50.649Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T11:06:50.688Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:06:50.984Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:06:50.997Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T11:07:11.263Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:07:12.052Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T11:07:35.940Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T11:07:36.033Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:07:36.784Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T11:07:52.553Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T11:07:52.590Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:07:52.897Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:07:52.956Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:09:53.951Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T11:10:20.838Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T11:10:20.939Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:10:21.641Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T11:10:24.081Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T11:10:24.105Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:10:24.364Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:10:24.397Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T11:10:28.268Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a33bcede800b7badcc078b","timestamp":"2025-02-05T11:10:28.295Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:10:28.627Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:10:28.711Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:11:12.891Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T11:11:12.955Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T11:11:19.741Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T11:11:19.746Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:11:19.918Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:11:20.008Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T11:11:23.082Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a338eeeb6efbeb5c379130","timestamp":"2025-02-05T11:11:23.090Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:11:23.278Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:11:23.383Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T11:11:28.753Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T11:11:40.128Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T11:11:40.283Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:11:40.931Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:12:05.361Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T11:12:05.781Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:12:29.078Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T11:12:29.779Z"}
+{"level":"info","message":"new task created by user 67a08aac0e7f8cc0305778de with id 67a347ab105eb638ebce8867","timestamp":"2025-02-05T11:12:43.132Z"}
+{"level":"info","message":"new task added to the task list by user 67a08aac0e7f8cc0305778de with id 67a3364a8dde6659149d47e5","timestamp":"2025-02-05T11:12:43.333Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:12:44.981Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:13:17.274Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T11:13:17.771Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T11:14:55.808Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:14:55.937Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:14:56.748Z"}
+{"level":"info","message":"logging out user with email sanket@gmail.com","timestamp":"2025-02-05T11:14:59.157Z"}
+{"level":"info","message":"logging in user with email sanket@gmail.com","timestamp":"2025-02-05T11:15:08.099Z"}
+{"level":"info","message":"user found {\n  _id: new ObjectId('67a08aac0e7f8cc0305778de'),\n  name: 'Sanket Gaikwad',\n  email: 'sanket@gmail.com',\n  dob: 1999-12-31T18:30:00.000Z,\n  password: '$2b$12$HALVPptSndk.QmiiMD3.ceTAsBMHfN0nlyk6g.nEJtj8uGF5Yk/5.',\n  image: 'https://res.cloudinary.com/ddodvrq4x/image/upload/v1738574508/toDoList/users/1738574506151.jpg',\n  verified: false,\n  createdAt: 2025-02-03T09:21:48.312Z,\n  updatedAt: 2025-02-03T13:29:40.370Z,\n  __v: 0\n}","timestamp":"2025-02-05T11:15:08.195Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:15:08.891Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:15:54.799Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T11:15:54.813Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:16:02.197Z"}
+{"level":"info","message":"task list requested by user 67a229d52cb0028938bfcee8 with id 522025","timestamp":"2025-02-05T11:16:02.916Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:16:03.221Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:16:06.623Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a347ab105eb638ebce8867","timestamp":"2025-02-05T11:16:11.225Z"}
+{"level":"info","message":"task updated by user 67a08aac0e7f8cc0305778de with id 67a347ab105eb638ebce8867","timestamp":"2025-02-05T11:16:11.233Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:16:11.414Z"}
+{"level":"info","message":"task list requested by user 67a08aac0e7f8cc0305778de with id 522025","timestamp":"2025-02-05T11:16:11.519Z"}

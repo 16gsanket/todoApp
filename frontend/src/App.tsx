@@ -10,10 +10,20 @@ import { ThemeProvider } from "@mui/material";
 import theme from "./theme/theme";
 import { Provider } from "react-redux";
 import store from "./Features/app/store";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 
 interface AppProps {}
 
 function App(props: AppProps): JSX.Element {
+  const queryClient = new QueryClient({
+    defaultOptions: {
+      queries: {
+        staleTime: 0,
+        refetchOnWindowFocus: true
+      },
+    },
+  });
   const router = createBrowserRouter([
     {
       element: <AppLayout />,
@@ -42,7 +52,10 @@ function App(props: AppProps): JSX.Element {
   return (
     <ThemeProvider theme={theme}>
       <Provider store={store}>
-        <RouterProvider router={router}></RouterProvider>
+        <QueryClientProvider client={queryClient}>
+          <ReactQueryDevtools initialIsOpen={false} />
+          <RouterProvider router={router}></RouterProvider>
+        </QueryClientProvider>
       </Provider>
     </ThemeProvider>
   );

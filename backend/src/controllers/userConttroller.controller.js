@@ -13,7 +13,7 @@ const registerUser = asyncHandler(async (req, res, next) => {
 
   const { name, email, password, dob } = req.body;
 
-  console.log(name, email, password, dob);
+  
   
 
   if (!req.file) {
@@ -74,7 +74,7 @@ const registerUser = asyncHandler(async (req, res, next) => {
 
 const loginUser = asyncHandler(async (req, res) => {
   const { email, password } = req.body;
-  console.log(email, password);
+ 
   
 
   logger.info(`logging in user with email ${email}`);
